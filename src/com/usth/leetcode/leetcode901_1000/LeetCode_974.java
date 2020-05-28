@@ -1,4 +1,4 @@
-package com.usth.leetcode.leetcode900_1000;
+package com.usth.leetcode.leetcode901_1000;
 
 import java.util.HashMap;
 import java.util.Map;
