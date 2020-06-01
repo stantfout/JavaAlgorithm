@@ -29,12 +29,12 @@ public class LeetCode_25 {
             pre.next = reverse(start, end);
             //pre移动到当前pre链表的尾节点
             pre = start;
-            //end等于下一组链表的start，继续反转
+            //end等于下一组链表的头部，继续反转
             end = next;
         }
         return res.next;
     }
-    //这里传入要反转的链表的头和尾，反转操作通过迭代实现，不是很难...最后返回反转后链表的头节点。
+    //这里传入要反转的链表的头和尾，反转操作通过迭代实现，最后返回反转后链表的头节点。
     private ListNode reverse(ListNode start, ListNode end) {
         ListNode head = start;
         while (head != end) {
