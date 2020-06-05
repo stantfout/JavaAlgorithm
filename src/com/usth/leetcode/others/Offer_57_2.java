@@ -3,7 +3,7 @@ package com.usth.leetcode.others;
 import java.util.ArrayList;
 import java.util.List;
 
-public class LeetCode_Offer_57_2 {
+public class Offer_57_2 {
     public int[][] findContinuousSequence(int target) {
         List<int[]> res = new ArrayList<>();
         int left = 1;
@@ -28,9 +28,5 @@ public class LeetCode_Offer_57_2 {
             }
         }
         return res.toArray(new int[res.size()][]);
-    }
-
-    public static void main(String[] args) {
-        LeetCode_Offer_57_2 leetCode_offer_57_2 = new LeetCode_Offer_57_2();
     }
 }
