@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_207.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1fX5sallaa4HL0k3ZUaf8ZqKCn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaAllMyKonw" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facet" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.usth.competition.week209" />
+      <recent name="com.usth.leetcode.leetcode1_100" />
+      <recent name="com.usth.competition.twoweek27" />
+      <recent name="com.usth.leetcode.leetcode200_300" />
+      <recent name="com.usth.leetcode.others" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.B">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.competition.week189.B" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.competition.week189.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode301_400.LeetCode_394" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.leetcode.leetcode301_400.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode1_100.LeetCode_5" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.leetcode.leetcode1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode1_100.LeetCode_8" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.leetcode.leetcode1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode1_100.LeetCode_84" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.leetcode.leetcode1_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode_5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="" />
+      <created>1589268350937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589268350937</updated>
+      <workItem from="1589268354206" duration="2582000" />
+      <workItem from="1589296938030" duration="1052000" />
+      <workItem from="1589347172424" duration="4316000" />
+      <workItem from="1589429331366" duration="911000" />
+      <workItem from="1589439165864" duration="5442000" />
+      <workItem from="1589454171200" duration="25000" />
+      <workItem from="1589454249002" duration="24000" />
+      <workItem from="1589521898091" duration="6307000" />
+      <workItem from="1589607911687" duration="9334000" />
+      <workItem from="1589884784136" duration="14000" />
+      <workItem from="1590077422855" duration="2000" />
+      <workItem from="1590124833461" duration="329000" />
+      <workItem from="1590290183633" duration="19113000" />
+      <workItem from="1590337964354" duration="8000" />
+      <workItem from="1590367564640" duration="3936000" />
+      <workItem from="1590402935094" duration="3333000" />
+      <workItem from="1590415918568" duration="204000" />
+      <workItem from="1590497667970" duration="8329000" />
+      <workItem from="1590629632201" duration="30000" />
+      <workItem from="1590650062154" duration="8660000" />
+      <workItem from="1590661731758" duration="1135000" />
+      <workItem from="1590663031421" duration="74000" />
+      <workItem from="1590664676021" duration="192000" />
+      <workItem from="1590681626952" duration="2488000" />
+      <workItem from="1590718360132" duration="28000" />
+      <workItem from="1590753185856" duration="6574000" />
+      <workItem from="1590765184770" duration="30000" />
+      <workItem from="1590834182752" duration="7216000" />
+      <workItem from="1590846587577" duration="7077000" />
+      <workItem from="1590884299630" duration="11214000" />
+      <workItem from="1590899532291" duration="8589000" />
+      <workItem from="1590918129395" duration="863000" />
+      <workItem from="1590925646983" duration="11000" />
+      <workItem from="1590977506373" duration="2095000" />
+      <workItem from="1590980335748" duration="2260000" />
+      <workItem from="1590994198215" duration="37000" />
+      <workItem from="1591016907170" duration="4658000" />
+      <workItem from="1591067704538" duration="7206000" />
+      <workItem from="1591076843764" duration="45000" />
+      <workItem from="1591145124540" duration="5110000" />
+      <workItem from="1591160150451" duration="468000" />
+      <workItem from="1591266240871" duration="1581000" />
+      <workItem from="1591354606022" duration="2089000" />
+      <workItem from="1591530704285" duration="7188000" />
+      <workItem from="1591622383319" duration="1856000" />
+      <workItem from="1591673001952" duration="1282000" />
+      <workItem from="1591766974616" duration="328000" />
+      <workItem from="1591777628138" duration="9000" />
+      <workItem from="1591844481077" duration="3289000" />
+      <workItem from="1591853253163" duration="20000" />
+      <workItem from="1591930207972" duration="2695000" />
+      <workItem from="1591932930240" duration="1667000" />
+      <workItem from="1592019323692" duration="1026000" />
+      <workItem from="1592131313658" duration="6065000" />
+      <workItem from="1592186337348" duration="1790000" />
+      <workItem from="1592275792537" duration="7170000" />
+      <workItem from="1592360386096" duration="1393000" />
+      <workItem from="1592372767502" duration="471000" />
+      <workItem from="1592438504073" duration="6549000" />
+      <workItem from="1592469620885" duration="269000" />
+      <workItem from="1592527221427" duration="67000" />
+      <workItem from="1592528390541" duration="33000" />
+      <workItem from="1592706554288" duration="8253000" />
+      <workItem from="1592740964934" duration="637000" />
+      <workItem from="1592755973824" duration="655000" />
+      <workItem from="1592801122991" duration="7386000" />
+      <workItem from="1592901365070" duration="20000" />
+      <workItem from="1593746085638" duration="2231000" />
+      <workItem from="1593757945020" duration="619000" />
+      <workItem from="1594008101840" duration="17323000" />
+      <workItem from="1594109630994" duration="1289000" />
+      <workItem from="1594620110681" duration="623000" />
+      <workItem from="1596333677655" duration="6627000" />
+      <workItem from="1596351814242" duration="32000" />
+      <workItem from="1596351874640" duration="107000" />
+      <workItem from="1596351997488" duration="90000" />
+      <workItem from="1596352114925" duration="139000" />
+      <workItem from="1596466352415" duration="1172000" />
+      <workItem from="1596542518028" duration="2279000" />
+      <workItem from="1596589082837" duration="12000" />
+      <workItem from="1596630081209" duration="1900000" />
+      <workItem from="1596768835094" duration="35000" />
+      <workItem from="1597149246016" duration="75000" />
+      <workItem from="1598184195857" duration="14000" />
+      <workItem from="1600048884663" duration="256000" />
+      <workItem from="1600050323992" duration="112000" />
+      <workItem from="1600087626996" duration="1561000" />
+      <workItem from="1600130257643" duration="6523000" />
+      <workItem from="1600158868161" duration="569000" />
+      <workItem from="1600307326580" duration="501000" />
+      <workItem from="1600405346490" duration="842000" />
+      <workItem from="1600434284569" duration="1815000" />
+      <workItem from="1600590695537" duration="8650000" />
+      <workItem from="1600752893990" duration="11719000" />
+      <workItem from="1600824565878" duration="1200000" />
+      <workItem from="1600837966039" duration="9062000" />
+      <workItem from="1601255456805" duration="2696000" />
+      <workItem from="1601343687124" duration="9682000" />
+      <workItem from="1601429151036" duration="4464000" />
+      <workItem from="1601446781160" duration="74000" />
+      <workItem from="1601447670652" duration="1198000" />
+      <workItem from="1601512612595" duration="2625000" />
+      <workItem from="1601604057108" duration="897000" />
+      <workItem from="1601708523968" duration="311000" />
+      <workItem from="1601717484017" duration="2949000" />
+      <workItem from="1601774468905" duration="1153000" />
+      <workItem from="1601777273911" duration="3542000" />
+      <workItem from="1601806749951" duration="1320000" />
+      <workItem from="1601808448462" duration="1398000" />
+      <workItem from="1601861197677" duration="2883000" />
+      <workItem from="1601864142262" duration="1285000" />
+      <workItem from="1601893359265" duration="5234000" />
+      <workItem from="1601946194855" duration="9947000" />
+    </task>
+    <task id="LOCAL-00001" summary="wsm">
+      <created>1590337445250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590337445250</updated>
+    </task>
+    <task id="LOCAL-00002" summary="287，974">
+      <created>1590513703167</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590513703167</updated>
+    </task>
+    <task id="LOCAL-00003" summary="6,7,198,394">
+      <created>1590684096484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590684096484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="125,152,680">
+      <created>1590761152609</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590761152609</updated>
+    </task>
+    <task id="LOCAL-00005" summary="...周赛191">
+      <created>1590916129645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590916129645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1371,1431">
+      <created>1591023349741</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591023349741</updated>
+    </task>
+    <task id="LOCAL-00007" summary="147，150，offer64">
+      <created>1591076876937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591076876937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="837">
+      <created>1591158532172</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591158532172</updated>
+    </task>
+    <task id="LOCAL-00009" summary="54,238,offer29">
+      <created>1591356684604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591356684604</updated>
+    </task>
+    <task id="LOCAL-00010" summary="9，14，15，70，126，127，128，739，990，1300，offer46">
+      <created>1592188066272</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592188066272</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20/9/14">
+      <created>1600048952894</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600048952894</updated>
+    </task>
+    <task id="LOCAL-00012" summary="20/10/06">
+      <created>1601978001216</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601978001216</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wsm" />
+    <MESSAGE value="287，974" />
+    <MESSAGE value="6,7,198,394" />
+    <MESSAGE value="125,152,680" />
+    <MESSAGE value="...周赛191" />
+    <MESSAGE value="1371,1431" />
+    <MESSAGE value="147，150，offer64" />
+    <MESSAGE value="837" />
+    <MESSAGE value="54,238,offer29" />
+    <MESSAGE value="9，14，15，70，126，127，128，739，990，1300，offer46" />
+    <MESSAGE value="20/9/14" />
+    <MESSAGE value="20/10/06" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/10/06" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1596352007734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596352007734" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601512651180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601512651180" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1601429272565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601429272565" />
+    <state x="420" y="0" key="CommitChangelistDialog2" timestamp="1601977996670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="420" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601977996670" />
+    <state x="570" y="167" key="FileChooserDialogImpl" timestamp="1601810631071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601810631071" />
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596768869165" />
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600050401231" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1601386491593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491593" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1601386491592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1601386491592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1601386491592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
+    <state width="1493" height="168" key="GridCell.Tab.1.bottom" timestamp="1600781689953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689953" />
+    <state width="1493" height="168" key="GridCell.Tab.1.center" timestamp="1600781689952">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.1.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689952" />
+    <state width="1493" height="168" key="GridCell.Tab.1.left" timestamp="1600781689951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.1.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689951" />
+    <state width="1493" height="168" key="GridCell.Tab.1.right" timestamp="1600781689953">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.1.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689953" />
+    <state x="349" y="147" key="IDE.errors.dialog" timestamp="1596352011926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="147" key="IDE.errors.dialog/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596352011926" />
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt" timestamp="1600850906991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600850906991" />
+    <state x="46" y="38" key="SettingsEditor" timestamp="1601895201711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="46" y="38" key="SettingsEditor/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601895201711" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596352233730" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600048975494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600048975494" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601977881361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601977881361" />
+    <state width="721" height="386" key="documentation.popup.size" timestamp="1601898213466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="721" height="386" key="documentation.popup.size/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601898213466" />
+    <state width="719" height="379" key="documentation.popup.size/0.0.1536.824/-1440.86.1440.860@0.0.1536.824" timestamp="1600756977874" />
+    <state x="499" y="216" key="extract.method.dialog" timestamp="1600850904335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="216" key="extract.method.dialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600850904335" />
+    <state width="719" height="384" key="javadoc.popup.new" timestamp="1600771032475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="719" height="384" key="javadoc.popup.new/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600771032475" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600597748520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600597748520" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1601897173804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601897173804" />
+  </component>
+</project>
