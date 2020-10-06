@@ -1,28 +1,52 @@
 package com.usth.leetcode.leetcode1_100;
 
+import java.util.Arrays;
+
 public class LeetCode_5 {
+
+    //    public String longestPalindrome(String s) {
+//        int n = s.length();
+//        if (n == 0) {
+//            return s;
+//        }
+//        boolean[][] dp = new boolean[n][n];
+//        int max = 0; int l = 0; int r = 0;
+//        for (int len = 1; len <= n; len++) {
+//            for (int i = 0; i + len - 1 < n; i++) {
+//                int j = i + len - 1;
+//                if (s.charAt(i) == s.charAt(j)) {
+//                    if (len <= 2) {
+//                        dp[i][j] = true;
+//                    } else {
+//                        dp[i][j] = dp[i + 1][j - 1];
+//                    }
+//                }
+//                if (dp[i][j] && max < len) {
+//                    max = len;
+//                    l = i;
+//                    r = j;
+//                }
+//            }
+//        }
+//        return s.substring(l,r + 1);
+//    }
     public String longestPalindrome(String s) {
-        if (s.length() <= 1) {
+        int n = s.length();
+        if (n == 0) {
             return s;
         }
-        int maxLength = 0;
-        String result = "";
-        for (int i = 0; i < s.length() - 1; i++) {
-            String s1 = getLength(s, i, i, maxLength);
-            if (maxLength < s1.length()) {
-                result = s1;
-                maxLength = s1.length();
-            }
-            String s2 = getLength(s, i, i + 1, maxLength);
-            if (maxLength < s2.length()) {
-                result = s2;
-                maxLength = s2.length();
+        String res = "";
+        for (int i = 0; i < n; i++) {
+            String s1 = getStr(s,i,i);
+            String s2 = getStr(s,i,i + 1);
+            if (res.length() < s1.length() || res.length() < s2.length()) {
+                res = s1.length() > s2.length() ? s1 : s2;
             }
         }
-        return result;
+        return res;
     }
 
-    private String getLength(String str, int i, int j, int maxLength) {
+    private String getStr(String str, int i, int j) {
         while (i >= 0 && j < str.length()) {
             if (str.charAt(i) != str.charAt(j)) {
                 break;
@@ -30,7 +54,6 @@ public class LeetCode_5 {
             i--;
             j++;
         }
-        int len = j - i - 1;
-        return len > maxLength ? str.substring(i + 1, j) : "";
+        return str.substring(i + 1, j);
     }
 }
