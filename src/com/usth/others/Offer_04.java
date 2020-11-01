@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 public class Offer_04 {
     public boolean findNumberIn2DArray(int[][] matrix, int target) {

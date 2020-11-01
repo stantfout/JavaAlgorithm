@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 public class LCP19 {
     public int minimumOperations(String leaves) {

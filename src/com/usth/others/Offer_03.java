@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 import java.util.HashSet;
 import java.util.Set;

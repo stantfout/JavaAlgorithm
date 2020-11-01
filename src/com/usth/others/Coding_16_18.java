@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 public class Coding_16_18 {
     public boolean patternMatching(String pattern, String value) {

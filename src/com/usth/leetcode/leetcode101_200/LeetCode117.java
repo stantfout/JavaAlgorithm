@@ -1,36 +1,29 @@
 package com.usth.leetcode.leetcode101_200;
 
+import com.usth.annotation.NotUnderstand;
 import com.usth.annotation.Undone;
 import com.usth.base.Node;
 
-@Undone
+@NotUnderstand
 public class LeetCode117 {
     public Node connect(Node root) {
         if (root == null) {
             return null;
         }
-        Node pre = null;
-        if (root.left != null && root.right != null) {
-            root.left.next = root.right;
-            pre = root.right;
-        } else if (root.left != null || root.right != null) {
-            pre = root.left == null ? root.right : root.left;
-        }
         Node next = null;
-        Node temp = root;
-        while (temp.next != null) {
-            if (temp.next.left != null) {
-                next = temp.next.left;
-                break;
-            }
-            if (temp.next.right != null) {
-                next = temp.next.right;
+        Node temp = root.next;
+        while (temp != null) {
+            if (temp.left != null || temp.right != null) {
+                next = temp.left == null ? temp.right : temp.left;
                 break;
             }
             temp = temp.next;
         }
-        if (pre != null) {
-            pre.next = next;
+        if (root.right != null) {
+            root.right.next = next;
+        }
+        if (root.left != null) {
+            root.left.next = root.right == null ? next : root.right;
         }
         connect(root.right);
         connect(root.left);

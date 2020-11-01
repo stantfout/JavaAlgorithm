@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 public class Coding_17_16 {
     public int massage(int[] nums) {

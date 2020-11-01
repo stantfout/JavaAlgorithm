@@ -5,6 +5,18 @@ import com.usth.base.ListNode;
 
 @FinalEnd
 public class LeetCode206 {
+    //迭代
+    public ListNode reverseList(ListNode head) {
+        ListNode pre = null;
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = pre;
+            pre = head;
+            head = next;
+        }
+        return pre;
+    }
+    /* 递归
     private ListNode res;
     public ListNode reverseList(ListNode head) {
         reverse(head);
@@ -21,4 +33,5 @@ public class LeetCode206 {
         pre.next = head;
         return head;
     }
+     */
 }

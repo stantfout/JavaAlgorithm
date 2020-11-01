@@ -1,15 +1,18 @@
-package com.usth.leetcode.others;
+package com.usth.leetcode.leetcode1_100;
+
+import com.usth.annotation.Undone;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Coding_08_12 {
+@Undone
+public class LeetCode51 {
     public List<List<String>> solveNQueens(int n) {
         int[] vis = new int[n];
         Arrays.fill(vis, -1);
         List<List<String>> res = new ArrayList<>();
-        dfs(vis, 0, res);
+        dfs(vis,0, res);
         return res;
     }
 
@@ -19,7 +22,7 @@ public class Coding_08_12 {
             res.add(build(vis));
         }
         for (int i = 0; i < n; i++) {
-            if (judge(vis, i, index)) {
+            if (judge(vis,i, index)) {
                 vis[index] = i;
                 dfs(vis, index + 1, res);
                 vis[index] = -1;
@@ -30,10 +33,10 @@ public class Coding_08_12 {
     private List<String> build(int[] vis) {
         int n = vis.length;
         List<String> list = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+        for (int vi : vis) {
             StringBuilder sb = new StringBuilder();
             for (int j = 0; j < n; j++) {
-                if (j != vis[i]) {
+                if (j != vi) {
                     sb.append('.');
                 } else {
                     sb.append('Q');
@@ -46,11 +49,12 @@ public class Coding_08_12 {
 
     private boolean judge(int[] vis, int val, int index) {
         for (int i = 0; i < index; i++) {
-            if (vis[i] == val || (vis[i] + i == val + index) || (vis[i] - i == val - index)) {
+            if (vis[i] == val ||
+                    (vis[i] + i == val + index) ||
+                    (vis[i] - i == val - index) ) {
                 return false;
             }
         }
         return true;
     }
-
 }

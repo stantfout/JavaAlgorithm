@@ -19,105 +19,144 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="20/10/06">
-      <change afterPath="$PROJECT_DIR$/src/com/usth/annotation/FinalEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/annotation/NotUnderstand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/annotation/Undone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_04_12.java" afterDir="false" />
+    <list default="true" id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="20/10/09">
+      <change afterPath="$PROJECT_DIR$/src/com/usth/annotation/GoodQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week210/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week210/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week210/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week210/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week211/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week211/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week211/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/competition/week211/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode129.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode381.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode416.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode763.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode844.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode925.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1365.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1625.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode102.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_124.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode124.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode125.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_126.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode126.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_127.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode127.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_128.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode136.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode139.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode142.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_144.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode144.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_145.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode145.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_146.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode146.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_147.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode147.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode153.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode160.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode90.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode_94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode1_100/LeetCode94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode207.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_210.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode210.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_227.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode227.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode235.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode236.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_238.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode238.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode287.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode297.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode_300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode_337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode_378.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode378.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode_394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode301_400/LeetCode394.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode_415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode415.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode_486.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode486.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode_501.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode501.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode_538.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode538.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode_543.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode543.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode_560.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode501_600/LeetCode560.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode601_700/LeetCode_617.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode601_700/LeetCode617.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode601_700/LeetCode_680.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode601_700/LeetCode680.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode_701.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode701.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode_718.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode718.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode_739.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode739.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode_771.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode771.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode_834.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode834.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode_837.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode801_900/LeetCode837.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode_974.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode974.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode_990.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode901_1000/LeetCode990.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_1014.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1014.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_1028.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1028.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_1300.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1300.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_1371.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1371.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_1431.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1431.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_5410.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1462.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode_5411.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1463.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_08_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_08_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_16_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_16_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_17_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_17_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/com/usth/base/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_117.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_126.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_127.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_128.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_136.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_139.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_145.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_146$LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_146$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_146$NodeList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_146.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_147.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_150.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode101_200/LeetCode_198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode1_100/LeetCode_90.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_207.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_210.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_227.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_238.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_287.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_297$Codec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_297.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode201_300/LeetCode_300.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode301_400/LeetCode_337.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode301_400/LeetCode_378.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode301_400/LeetCode_394.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode401_500/LeetCode_415.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode401_500/LeetCode_486.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode501_600/LeetCode_543.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode501_600/LeetCode_560.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode601_700/LeetCode_617.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode601_700/LeetCode_680.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode701_800/LeetCode_718.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode701_800/LeetCode_739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode801_900/LeetCode_837.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode901_1000/LeetCode_974.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcode901_1000/LeetCode_990.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_1014.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_1028.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_1300.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_1371.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_1431.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_5410.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/leetcodemore/LeetCode_5411.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_16_18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_17_16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_57_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/com/usth/leetcode/others/Offer_64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/base/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/base/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/base/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/base/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode117.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode139.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_04_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Coding_04_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_08_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Coding_08_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_16_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Coding_16_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Coding_17_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Coding_17_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/LCP19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/LCP19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_46.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_57_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_57_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/usth/leetcode/others/Offer_64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/usth/others/Offer_64.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +183,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="AnnotationType" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -153,7 +192,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode225.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1625.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode129.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode207.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode763.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -184,24 +227,37 @@
     <property name="project.structure.last.edited" value="Facet" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Rainbow Brackets" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.usth.competition.week211" />
+      <recent name="com.usth.leetcode.leetcode101_200" />
+      <recent name="com.usth.competition.week210" />
       <recent name="com.usth.competition.week209" />
       <recent name="com.usth.leetcode.leetcode1_100" />
-      <recent name="com.usth.competition.twoweek27" />
-      <recent name="com.usth.leetcode.leetcode200_300" />
-      <recent name="com.usth.leetcode.others" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.B">
+  <component name="RunManager" selected="Application.LeetCode1625">
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.usth.competition.week189.B" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.usth.competition.week189.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode1625" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcodemore.LeetCode1625" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.usth.leetcode.leetcodemore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,25 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode1_100.LeetCode8" />
+    <configuration name="LeetCode845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode801_900.LeetCode845" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.usth.leetcode.leetcode1_100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.usth.leetcode.leetcode1_100.LeetCode84" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.usth.leetcode.leetcode1_100.*" />
+          <option name="PATTERN" value="com.usth.leetcode.leetcode801_900.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -263,6 +306,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeetCode1625" />
+        <item itemvalue="Application.LeetCode845" />
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.LeetCode5" />
       </list>
     </recent_temporary>
@@ -402,6 +448,48 @@
       <workItem from="1602127769778" duration="37000" />
       <workItem from="1602210411518" duration="1134000" />
       <workItem from="1602213329706" duration="5866000" />
+      <workItem from="1602233798545" duration="139000" />
+      <workItem from="1602380576596" duration="6115000" />
+      <workItem from="1602390414110" duration="3362000" />
+      <workItem from="1602404161483" duration="1858000" />
+      <workItem from="1602471115854" duration="582000" />
+      <workItem from="1602487340338" duration="1234000" />
+      <workItem from="1602566454591" duration="2351000" />
+      <workItem from="1602570999231" duration="783000" />
+      <workItem from="1602579647597" duration="22000" />
+      <workItem from="1602587572958" duration="508000" />
+      <workItem from="1602642593828" duration="577000" />
+      <workItem from="1602643215063" duration="1528000" />
+      <workItem from="1602662256881" duration="1872000" />
+      <workItem from="1602724255886" duration="4103000" />
+      <workItem from="1602729309373" duration="1202000" />
+      <workItem from="1602815476741" duration="2678000" />
+      <workItem from="1602841329512" duration="31000" />
+      <workItem from="1602846563348" duration="167000" />
+      <workItem from="1602898127428" duration="36000" />
+      <workItem from="1602986493376" duration="6172000" />
+      <workItem from="1603013578558" duration="2854000" />
+      <workItem from="1603018533655" duration="45000" />
+      <workItem from="1603025713442" duration="2462000" />
+      <workItem from="1603075967637" duration="1963000" />
+      <workItem from="1603102938452" duration="491000" />
+      <workItem from="1603167360871" duration="2837000" />
+      <workItem from="1603260628933" duration="883000" />
+      <workItem from="1603261592896" duration="16000" />
+      <workItem from="1603355405618" duration="1545000" />
+      <workItem from="1603427885072" duration="1814000" />
+      <workItem from="1603430832945" duration="14000" />
+      <workItem from="1603516546062" duration="3467000" />
+      <workItem from="1603676117857" duration="1110000" />
+      <workItem from="1603686274686" duration="17565000" />
+      <workItem from="1603769004113" duration="11617000" />
+      <workItem from="1603851742048" duration="2145000" />
+      <workItem from="1603872371734" duration="3288000" />
+      <workItem from="1603949500150" duration="212000" />
+      <workItem from="1604049292918" duration="1338000" />
+      <workItem from="1604055410345" duration="2499000" />
+      <workItem from="1604120557164" duration="5174000" />
+      <workItem from="1604217973572" duration="10051000" />
     </task>
     <task id="LOCAL-00001" summary="wsm">
       <created>1590337445250</created>
@@ -494,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601978025794</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20/10/09">
+      <created>1602233885303</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602233885303</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -538,11 +633,63 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="3">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/leetcode/src/com/usth/leetcode/leetcode1_100" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+        <entry key="3" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -560,67 +707,78 @@
     <MESSAGE value="9，14，15，70，126，127，128，739，990，1300，offer46" />
     <MESSAGE value="20/9/14" />
     <MESSAGE value="20/10/06" />
-    <option name="LAST_COMMIT_MESSAGE" value="20/10/06" />
+    <MESSAGE value="20/10/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/10/09" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="53" key="#Plugins" timestamp="1596352007734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="53" key="#Plugins/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596352007734" />
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601512651180">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603795945871">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601512651180" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1601429272565">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603795945871" />
+    <state x="597" y="107" width="388" height="566" key="#com.intellij.ide.util.MemberChooser" timestamp="1603077709495">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601429272565" />
-    <state x="420" y="0" key="CommitChangelistDialog2" timestamp="1601978779655">
+    <state x="597" y="107" width="388" height="566" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603077709495" />
+    <state x="420" y="0" key="CommitChangelistDialog2" timestamp="1603077417403">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="420" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601978779655" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1601979096888">
+    <state x="420" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603077417403" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1603103431175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1601979096888" />
-    <state x="570" y="167" key="FileChooserDialogImpl" timestamp="1602228643175">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1603103431175" />
+    <state x="570" y="167" key="FileChooserDialogImpl" timestamp="1604049445407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601810631071" />
     <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596768869165" />
-    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602228643175" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1601386491593">
+    <state x="570" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604049445407" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1603799659070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491593" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1601386491592">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603799659070" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1603799659069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1601386491592">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603799659069" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1603799659069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1601386491592">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603799659069" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1603799659070">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601386491592" />
-    <state width="1493" height="168" key="GridCell.Tab.1.bottom" timestamp="1600781689953">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603799659070" />
+    <state width="1493" height="245" key="GridCell.Tab.1.bottom" timestamp="1603719616944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="168" key="GridCell.Tab.1.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689953" />
-    <state width="1493" height="168" key="GridCell.Tab.1.center" timestamp="1600781689952">
+    <state width="1493" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603719616944" />
+    <state width="1493" height="245" key="GridCell.Tab.1.center" timestamp="1603719616944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="168" key="GridCell.Tab.1.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689952" />
-    <state width="1493" height="168" key="GridCell.Tab.1.left" timestamp="1600781689951">
+    <state width="1493" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603719616944" />
+    <state width="1493" height="245" key="GridCell.Tab.1.left" timestamp="1603719616944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="168" key="GridCell.Tab.1.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689951" />
-    <state width="1493" height="168" key="GridCell.Tab.1.right" timestamp="1600781689953">
+    <state width="1493" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603719616944" />
+    <state width="1493" height="245" key="GridCell.Tab.1.right" timestamp="1603719616944">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="168" key="GridCell.Tab.1.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600781689953" />
+    <state width="1493" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603719616944" />
     <state x="349" y="147" key="IDE.errors.dialog" timestamp="1596352011926">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -629,33 +787,39 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="346" key="ReplaceDuplicatesPrompt/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600850906991" />
-    <state x="629" y="132" key="RollbackChangesDialog" timestamp="1601978923836">
+    <state x="629" y="132" key="RollbackChangesDialog" timestamp="1602571145140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="629" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601978923836" />
-    <state x="46" y="38" key="SettingsEditor" timestamp="1601895201711">
+    <state x="629" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602571145140" />
+    <state x="46" y="38" key="SettingsEditor" timestamp="1602233909201">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="46" y="38" key="SettingsEditor/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601895201711" />
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1440.860@0.0.1536.824" timestamp="1596352233730" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601978997198">
+    <state x="46" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602233909201" />
+    <state x="621" y="124" key="VCS.ChangeListViewerDialog" timestamp="1602571027784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601978997198" />
+    <state x="621" y="124" key="VCS.ChangeListViewerDialog/0.0.1536.824@0.0.1536.824" timestamp="1602571027784" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602233887612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602233887612" />
     <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601979096888">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601979096888" />
-    <state width="721" height="386" key="documentation.popup.size" timestamp="1602124170573">
+    <state width="721" height="386" key="documentation.popup.size" timestamp="1603769218293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="721" height="386" key="documentation.popup.size/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601898213466" />
     <state width="719" height="379" key="documentation.popup.size/0.0.1536.824/-1440.86.1440.860@0.0.1536.824" timestamp="1600756977874" />
-    <state width="721" height="386" key="documentation.popup.size/0.0.1536.824@0.0.1536.824" timestamp="1602124170573" />
-    <state x="499" y="216" key="extract.method.dialog" timestamp="1600850904335">
+    <state width="721" height="386" key="documentation.popup.size/0.0.1536.824@0.0.1536.824" timestamp="1603769218293" />
+    <state x="499" y="216" key="extract.method.dialog" timestamp="1604122590394">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="216" key="extract.method.dialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600850904335" />
+    <state x="499" y="216" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1604122590394" />
     <state width="719" height="384" key="javadoc.popup.new" timestamp="1600771032475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -668,10 +832,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600597748520" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602053569881">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602571062427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601897173804" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602053569881" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602571062427" />
   </component>
 </project>

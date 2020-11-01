@@ -1,4 +1,4 @@
-package com.usth.leetcode.others;
+package com.usth.others;
 
 public class Offer_46 {
     public int translateNum(int num) {
