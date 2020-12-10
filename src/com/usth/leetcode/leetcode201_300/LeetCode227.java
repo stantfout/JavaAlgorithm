@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.Deque;
 import java.util.LinkedList;
 
 @Undone
+@GoodQuestion("栈+模拟+代码能力")
 public class LeetCode227 {
     public int calculate(String str) {
         str = str.replace(" ", "");

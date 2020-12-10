@@ -4,7 +4,7 @@ import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
-@GoodQuestion("暴力模拟,代码能力")
+@GoodQuestion("暴力模拟+代码能力")
 public class LeetCode1625 {
     public String findLexSmallestString(String s, int a, int b) {
         char[] arr = s.toCharArray();

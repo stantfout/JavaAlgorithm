@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode201_300;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("二分查找/快慢指针")
 public class LeetCode287 {
     public int findDuplicate(int[] nums) {
         int n = nums.length - 1;

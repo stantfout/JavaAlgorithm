@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 @Undone
+@GoodQuestion("递归")
 public class LeetCode216 {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer> > res = new ArrayList<>();

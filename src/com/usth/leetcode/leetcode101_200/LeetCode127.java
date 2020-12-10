@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode101_200;
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import javafx.util.Pair;
 
 import java.util.*;
 
 @FinalEnd
+@GoodQuestion("数据结构+搜索")
 public class LeetCode127 {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         if (!wordList.contains(endWord)) {

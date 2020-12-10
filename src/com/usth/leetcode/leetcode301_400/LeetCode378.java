@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode301_400;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("思维题+二分搜索")
 public class LeetCode378 {
     public int kthSmallest(int[][] matrix, int k) {
         int n = matrix.length;

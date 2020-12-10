@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcodemore;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.Arrays;
 
 @FinalEnd
+@GoodQuestion("前缀和+Hash表")
 public class LeetCode1371 {
     public int findTheLongestSubstring(String s) {
         //建立一个Hash表，Hash表存储的是某种状态第一次出现的位置。

@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode501_600;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
@@ -7,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Undone
+@GoodQuestion("二叉搜索树特性")
 public class LeetCode501 {
     int now, cnt, max;
     List<Integer> list = new ArrayList<>();

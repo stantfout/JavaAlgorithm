@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode101_200;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("二分查找")
 public class LeetCode162 {
     public int findPeakElement(int[] nums) {
         int left = 0;

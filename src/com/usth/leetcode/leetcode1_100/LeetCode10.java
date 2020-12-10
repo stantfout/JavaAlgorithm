@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode1_100;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("动态规划/状态机")
 public class LeetCode10 {
     public boolean isMatch(String text, String pattern) {
         int n = text.length();
@@ -24,12 +26,6 @@ public class LeetCode10 {
                     }
                 }
             }
-        }
-        for(int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                System.out.print(dp[i][j] + " ");
-            }
-            System.out.println();
         }
         return dp[n][m];
     }

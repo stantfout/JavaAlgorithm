@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.Arrays;
 
 @Undone
+@GoodQuestion("递归")
 public class LeetCode52 {
     int res = 0;
     public int totalNQueens(int n) {

@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode901_1000;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.HashMap;
 import java.util.Map;
 
 @FinalEnd
+@GoodQuestion("Hash+前缀和")
 public class LeetCode974 {
     public int subarraysDivByK(int[] arr, int K) {
         int n = arr.length;

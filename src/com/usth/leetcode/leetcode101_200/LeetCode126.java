@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import	java.util.LinkedList;
 import java.util.*;
 
 @FinalEnd
+@GoodQuestion("数据结构+搜索")
 public class LeetCode126 {
     public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
         List<List<String>> res = new ArrayList<>();

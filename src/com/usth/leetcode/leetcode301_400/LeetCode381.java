@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode301_400;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import java.util.*;
 
 @Undone
+@GoodQuestion("数据结构")
 public class LeetCode381 {
     class RandomizedCollection {
         Map<Integer, Set<Integer>> map;

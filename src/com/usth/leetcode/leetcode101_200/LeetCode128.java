@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.HashSet;
 import java.util.Set;
 
 @FinalEnd
+@GoodQuestion("思维")
 public class LeetCode128 {
     public int longestConsecutive(int[] nums) {
         Set<Integer> set = new HashSet<>();

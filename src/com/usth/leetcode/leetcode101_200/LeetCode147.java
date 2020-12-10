@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import com.usth.base.ListNode;
 
 @FinalEnd
+@GoodQuestion("链表")
 public class LeetCode147 {
     public ListNode insertionSortList(ListNode head) {
         if (head == null) {

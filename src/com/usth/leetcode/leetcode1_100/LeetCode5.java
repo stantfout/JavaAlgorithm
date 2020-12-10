@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode1_100;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("多解法:中心扩展/动态规划/马拉车")
 public class LeetCode5 {
 
     //    public String longestPalindrome(String s) {

@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode401_500;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.Arrays;
 
 @Undone
+@GoodQuestion("动态规划")
 public class LeetCode416 {
     public boolean canPartition(int[] nums) {
         int sum = 0;

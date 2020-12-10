@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode801_900;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.NotUnderstand;
 
 import java.util.*;
 
 @NotUnderstand
+@GoodQuestion("树状DP")
 public class LeetCode834 {
 
     int[] ans;

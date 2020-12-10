@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode1_100;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import com.usth.base.ListNode;
 
 @FinalEnd
+@GoodQuestion("基础链表")
 public class LeetCode21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode now = new ListNode(-1);

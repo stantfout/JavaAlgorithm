@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode801_900;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("动态规划+前缀和优化")
 public class LeetCode837 {
     public double new21Game(int N, int K, int W) {
         //特判K=0时结果为1

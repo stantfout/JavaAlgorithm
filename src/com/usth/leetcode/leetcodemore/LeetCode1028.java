@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcodemore;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
 @Undone
+@GoodQuestion("模拟+代码能力")
 public class LeetCode1028 {
     private int i = 0;
     public TreeNode recoverFromPreorder(String S) {

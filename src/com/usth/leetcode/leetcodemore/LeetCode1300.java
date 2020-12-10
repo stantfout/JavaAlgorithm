@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcodemore;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("二分搜索")
 public class LeetCode1300 {
     public int findBestValue(int[] arr, int target) {
 

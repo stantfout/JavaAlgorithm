@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
@@ -9,6 +10,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 @Undone
+@GoodQuestion("递归/栈/Morris遍历")
 public class LeetCode94 {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<>();

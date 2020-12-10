@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode201_300;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import com.usth.base.ListNode;
 
 @FinalEnd
+@GoodQuestion("链表基础操作")
 public class LeetCode206 {
     //迭代
     public ListNode reverseList(ListNode head) {

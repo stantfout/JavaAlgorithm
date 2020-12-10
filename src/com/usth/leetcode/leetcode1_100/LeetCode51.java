@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.ArrayList;
@@ -7,6 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 
 @Undone
+@GoodQuestion("递归")
 public class LeetCode51 {
     public List<List<String>> solveNQueens(int n) {
         int[] vis = new int[n];

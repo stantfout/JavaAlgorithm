@@ -4,7 +4,7 @@ import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
-@GoodQuestion("动态规划=>贪心优化")
+@GoodQuestion("动态规划/贪心优化")
 public class LeetCode1029 {
     public int twoCitySchedCost(int[][] costs) {
         int n = costs.length;

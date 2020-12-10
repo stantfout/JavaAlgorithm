@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.ListNode;
 
 @Undone
+@GoodQuestion("链表综合")
 public class LeetCode234 {
 
     public boolean isPalindrome(ListNode head) {

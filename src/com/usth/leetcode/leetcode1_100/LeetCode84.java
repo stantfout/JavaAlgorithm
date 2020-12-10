@@ -1,13 +1,14 @@
 package com.usth.leetcode.leetcode1_100;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.Deque;
 import java.util.LinkedList;
 
 @FinalEnd
+@GoodQuestion("单调栈")
 public class LeetCode84 {
-
     public int largestRectangleArea(int[] arr) {
         int n = arr.length;
         //特判

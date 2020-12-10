@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode201_300;
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import	java.util.LinkedList;
 import	java.util.Queue;
 
 @FinalEnd
+@GoodQuestion("拓扑排序")
 public class LeetCode210 {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         if (numCourses == 0) {

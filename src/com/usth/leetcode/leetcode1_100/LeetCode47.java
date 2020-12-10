@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.*;
 
 @Undone
+@GoodQuestion("递归+去重")
 public class LeetCode47 {
     public List<List<Integer>> permuteUnique(int[] nums) {
         Arrays.sort(nums);

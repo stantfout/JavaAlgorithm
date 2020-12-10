@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode101_200;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.NotUnderstand;
 import com.usth.annotation.Undone;
 import com.usth.base.Node;
 
 @NotUnderstand
+@GoodQuestion("递归/技巧")
 public class LeetCode116 {
     public Node connect(Node root) {
         if (root == null) {

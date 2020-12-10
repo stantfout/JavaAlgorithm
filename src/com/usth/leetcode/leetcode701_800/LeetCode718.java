@@ -1,8 +1,11 @@
 package com.usth.leetcode.leetcode701_800;
 
+import com.usth.annotation.GoodQuestion;
+import com.usth.annotation.NotUnderstand;
 import com.usth.annotation.Undone;
 
-@Undone
+@NotUnderstand
+@GoodQuestion("动态规划/Hash")
 public class LeetCode718 {
     public int findLength(int[] A, int[] B) {
         int n = A.length;

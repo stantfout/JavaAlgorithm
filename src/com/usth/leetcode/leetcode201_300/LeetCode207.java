@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
 @Undone
+@GoodQuestion("拓扑排序")
 public class LeetCode207 {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         int[] inDegrees = new int[numCourses];

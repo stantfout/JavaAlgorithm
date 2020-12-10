@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode401_500;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("动态规划")
 public class LeetCode486 {
     public boolean PredictTheWinner(int[] nums) {
         int n = nums.length;

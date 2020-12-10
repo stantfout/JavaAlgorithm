@@ -1,12 +1,14 @@
 package com.usth.leetcode.leetcodemore;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import	java.util.ArrayList;
 
 import java.util.List;
 
 @FinalEnd
+@GoodQuestion("Floyd算法")
 public class LeetCode1462 {
     public List<Boolean> checkIfPrerequisite(int n, int[][] prerequisites, int[][] queries) {
         boolean[][] dp = new boolean[n][n];

@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcodemore;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("动态规划")
 public class LeetCode1463 {
     public int cherryPickup(int[][] grid) {
         int n = grid.length;

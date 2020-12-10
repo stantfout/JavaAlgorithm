@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode801_900;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("枚举+优化")
 public class LeetCode845 {
     public int longestMountain(int[] A) {
         int res = 0;

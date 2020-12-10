@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode701_800;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 @Undone
+@GoodQuestion("贪心")
 public class LeetCode763 {
     public List<Integer> partitionLabels(String S) {
         List<Integer> res = new ArrayList<>();

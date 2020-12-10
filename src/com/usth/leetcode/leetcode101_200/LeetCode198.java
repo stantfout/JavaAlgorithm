@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("基础DP")
 public class LeetCode198 {
     public int rob(int[] nums) {
         int n = nums.length;

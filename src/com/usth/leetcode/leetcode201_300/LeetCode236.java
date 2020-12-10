@@ -2,9 +2,11 @@ package com.usth.leetcode.leetcode201_300;
 
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import com.usth.base.TreeNode;
 
 @FinalEnd
+@GoodQuestion("二叉树递归")
 public class LeetCode236 {
 
     private TreeNode res = null;

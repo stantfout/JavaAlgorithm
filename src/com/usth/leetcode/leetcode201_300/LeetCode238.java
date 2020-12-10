@@ -1,10 +1,12 @@
 package com.usth.leetcode.leetcode201_300;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.Arrays;
 
 @FinalEnd
+@GoodQuestion("思维题")
 public class LeetCode238 {
     public int[] productExceptSelf(int[] nums) {
         int n =nums.length;

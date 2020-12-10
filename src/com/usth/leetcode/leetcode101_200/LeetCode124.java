@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode101_200;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
 @Undone
+@GoodQuestion("复杂递归")
 public class LeetCode124 {
     private int max = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {

@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode801_900;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("思维+模拟")
 public class LeetCode844 {
     public boolean backspaceCompare(String S, String T) {
         int i = S.length() - 1;

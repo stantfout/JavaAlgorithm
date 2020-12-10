@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("经典DP/二分+贪心优化")
 public class LeetCode300 {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;

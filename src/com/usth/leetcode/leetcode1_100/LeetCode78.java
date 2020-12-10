@@ -1,5 +1,6 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 import java.util.ArrayList;
@@ -8,6 +9,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 @Undone
+@GoodQuestion("递归")
 public class LeetCode78 {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> lists = new ArrayList<>();

@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcodemore;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("思维题")
 public class LeetCode1014 {
     public int maxScoreSightseeingPair(int[] A) {
         int res = 0;

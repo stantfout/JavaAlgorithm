@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode101_200;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.ListNode;
 
 @Undone
+@GoodQuestion("链表")
 public class LeetCode148 {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) {

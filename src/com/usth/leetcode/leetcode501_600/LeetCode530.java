@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode501_600;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
 @Undone
+@GoodQuestion("二叉搜索树特性")
 public class LeetCode530 {
     int min;
     int pre;

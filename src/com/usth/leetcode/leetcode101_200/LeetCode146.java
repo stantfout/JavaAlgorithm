@@ -1,12 +1,14 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.HashMap;
 
 import java.util.Map;
 
 @FinalEnd
+@GoodQuestion("数据结构")
 public class LeetCode146 {
 
     class Node {

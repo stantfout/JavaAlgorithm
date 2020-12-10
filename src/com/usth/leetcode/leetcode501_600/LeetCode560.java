@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode501_600;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.HashMap;
 import java.util.Map;
 
 @FinalEnd
+@GoodQuestion("Hash+前缀和")
 public class LeetCode560 {
     public int subarraySum(int[] nums, int k) {
         int n = nums.length;

@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode101_200;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("动态规划")
 public class LeetCode152 {
     public int maxProduct(int[] nums) {
         int n = nums.length;

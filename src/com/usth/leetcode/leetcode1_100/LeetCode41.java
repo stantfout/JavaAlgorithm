@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode1_100;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 
 @Undone
+@GoodQuestion("思维")
 public class LeetCode41 {
     public int firstMissingPositive(int[] nums) {
         int n = nums.length;

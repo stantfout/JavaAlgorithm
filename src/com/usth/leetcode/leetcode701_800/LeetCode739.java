@@ -1,11 +1,13 @@
 package com.usth.leetcode.leetcode701_800;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.Deque;
 import java.util.LinkedList;
 
 @FinalEnd
+@GoodQuestion("单调栈")
 public class LeetCode739 {
     public int[] dailyTemperatures(int[] arr) {
         Deque<Integer> stack = new LinkedList<>();

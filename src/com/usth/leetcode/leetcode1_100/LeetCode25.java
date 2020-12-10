@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode1_100;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 import com.usth.base.ListNode;
 
 @FinalEnd
+@GoodQuestion("复杂链表")
 public class LeetCode25 {
     public ListNode reverseKGroup(ListNode head, int k) {
         //特判

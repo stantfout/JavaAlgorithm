@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode301_400;
 
+import com.usth.annotation.GoodQuestion;
 import com.usth.annotation.Undone;
 import com.usth.base.TreeNode;
 
 @Undone
+@GoodQuestion("树形DP")
 public class LeetCode337 {
     public int rob(TreeNode root) {
         int[] res = robInternal(root);

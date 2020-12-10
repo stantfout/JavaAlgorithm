@@ -1,8 +1,10 @@
 package com.usth.leetcode.leetcode901_1000;
 
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 @FinalEnd
+@GoodQuestion("并查集")
 public class LeetCode990 {
     public boolean equationsPossible(String[] equations) {
         int[] pre = new int[26];

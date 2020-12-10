@@ -1,9 +1,11 @@
 package com.usth.leetcode.leetcode1_100;
 import com.usth.annotation.FinalEnd;
+import com.usth.annotation.GoodQuestion;
 
 import java.util.*;
 
 @FinalEnd
+@GoodQuestion("双指针+去重")
 public class LeetCode15 {
     public List<List<Integer>> threeSum(int[] nums) {
         int n = nums.length;
