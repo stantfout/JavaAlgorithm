@@ -6,27 +6,23 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode601_700/LeetCode649.java" afterDir="false" />
+    <list default="true" id="84a7a6fa-b7c6-443a-b6eb-4e89106b2b27" name="Default Changelist" comment="20/12/27-1">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode455.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -58,16 +54,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode225.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode763.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode401_500/LeetCode454.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/twoweek40/A.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/week217/B.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcodemore/LeetCode1625.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/twoweek40/C.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/twoweek40/A.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode101_200/LeetCode129.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/competition/twoweek40/B.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode205.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode207.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode701_800/LeetCode763.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/twoweek40/C.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/leetcode/leetcode201_300/LeetCode225.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/usth/competition/week217/B.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -99,7 +96,7 @@
     <property name="project.structure.last.edited" value="Facet" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -395,6 +392,7 @@
       <workItem from="1607612591658" duration="4397000" />
       <workItem from="1607646543036" duration="16000" />
       <workItem from="1607653897885" duration="1943000" />
+      <workItem from="1609048776304" duration="1117000" />
     </task>
     <task id="LOCAL-00001" summary="wsm">
       <created>1590337445250</created>
@@ -602,6 +600,11 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -629,7 +632,8 @@
     <MESSAGE value="20/10/09" />
     <MESSAGE value="20/11/01" />
     <MESSAGE value="20/12/11" />
-    <option name="LAST_COMMIT_MESSAGE" value="20/12/11" />
+    <MESSAGE value="20/12/27-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/12/27-1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603795945871">
@@ -703,11 +707,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="629" y="132" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602571145140" />
-    <state x="46" y="38" key="SettingsEditor" timestamp="1604391554208">
+    <state x="46" y="38" key="SettingsEditor" timestamp="1609049378045">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="46" y="38" key="SettingsEditor/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1601895201711" />
-    <state x="46" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604391554208" />
+    <state x="46" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609049378045" />
     <state x="621" y="124" key="VCS.ChangeListViewerDialog" timestamp="1602571027784">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
