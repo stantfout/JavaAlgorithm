@@ -1,5 +1,8 @@
 package com.usth.leetcode.leetcode601_700;
 
+import com.usth.annotation.Undone;
+
+@Undone
 public class LeetCode605 {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count = 0;

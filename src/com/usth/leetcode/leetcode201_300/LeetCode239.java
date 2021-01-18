@@ -1,41 +1,15 @@
 package com.usth.leetcode.leetcode201_300;
 
+import com.usth.annotation.GoodQuestion;
+import com.usth.annotation.Undone;
+
 import java.util.Deque;
 import java.util.LinkedList;
 
+@Undone
+@GoodQuestion("堆/单调队列")
 public class LeetCode239 {
-    /*
-    public int[] maxSlidingWindow(int[] nums, int k) {
-        int[] res = new int[nums.length - k + 1];
-        PriorityQueue<int[]> pq = new PriorityQueue<>(new Comparator<int[]>()
-        {
-            @Override
-            public int compare(int[] o1, int[] o2)
-            {
-                if (o1[0] != o2[0]) {
-                    return o2[0] - o1[0];
-                } else {
-                    return o2[1] - o1[1];
-                }
-            }
-        });
-
-        for (int i = 0; i < k; i++) {
-            pq.add(new int[]{nums[i],i});
-        }
-        res[0] = pq.peek()[0];
-
-        for (int i = k; i < nums.length; i++) {
-            pq.add(new int[]{nums[i], i});
-            while (pq.peek()[1] < i - k + 1) {
-                pq.poll();
-            }
-            res[i - k + 1] = pq.peek()[0];
-        }
-        return res;
-    }
-    */
-
+    // 单调队列
     public int[] maxSlidingWindow(int[] nums, int k) {
         int n = nums.length;
         int[] res = new int[n - k + 1];
@@ -59,4 +33,32 @@ public class LeetCode239 {
         }
         return res;
     }
+
+    /* 堆
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        int[] res = new int[nums.length - k + 1];
+        PriorityQueue<int[]> pq = new PriorityQueue<>((o1, o2) -> {
+            if (o1[0] != o2[0]) {
+                return o2[0] - o1[0];
+            } else {
+                return o2[1] - o1[1];
+            }
+        });
+
+        for (int i = 0; i < k; i++) {
+            pq.add(new int[]{nums[i],i});
+        }
+        res[0] = pq.peek()[0];
+
+        for (int i = k; i < nums.length; i++) {
+            pq.add(new int[]{nums[i], i});
+            while (pq.peek()[1] < i - k + 1) {
+                pq.poll();
+            }
+            res[i - k + 1] = pq.peek()[0];
+        }
+        return res;
+    }
+     */
+
 }
