@@ -3,3 +3,4 @@ workspace
 .classpath
 .idea
 leetcode.iml
+.vscode
