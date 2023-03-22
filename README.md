@@ -1,4 +1,2 @@
-# leetcode
-leetcode刷题的代码
-
-不定期更新
+# JavaAlgorithm
+记录Java算法刷题

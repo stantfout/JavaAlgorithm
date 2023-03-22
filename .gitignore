@@ -2,5 +2,6 @@ workspace
 .project
 .classpath
 .idea
-leetcode.iml
 .vscode
+/out/
+/JavaAlgorithm.iml
